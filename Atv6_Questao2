@@ -1,0 +1,11 @@
+programa {
+	funcao inicio() {
+		
+		//2. Faça um programa que imprima na tela os números de 20 a 1, um abaixo do outro.
+		
+		para(inteiro i=20; i>0; i--){
+		
+		escreva(i, "\n")
+	
+	}}
+}
